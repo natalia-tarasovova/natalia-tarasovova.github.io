@@ -5,9 +5,9 @@
 }
   
 .page {
-  display: flex;
-  flex-wrap: wrap;
-}
+    width: 960px;
+    margin: 0 auto;
+  }
 
 body {
   color: #F5ECF5;

@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
   
+.page {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 body {
   color: #F5ECF5;
   background-color: #7A5A9C;
